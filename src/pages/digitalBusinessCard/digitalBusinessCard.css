@@ -1,0 +1,86 @@
+.profile-pic {
+  width: 317px;
+  height: 317px;
+  border-radius: 8px 8px 0px 0px;
+}
+
+.body {
+  width: 317px;
+  height: 330px;
+  background-color: #1A1B21;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.body-name {
+  color: #fff;
+  font-weight: 600;
+  font-size: larger;
+}
+
+.body-designation {
+  color: #f3bf99;
+  margin: 10px 0px;
+}
+
+.body-contacts {
+  display: flex;
+}
+
+.body-contacts-box {
+  height: 34px;
+  width: 115px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 10px;
+  border-radius: 4px;
+}
+
+.body-contacts-box-items {
+  margin: 3px;
+}
+
+.body-contacts-mail {
+  background-color: #fff;
+  color: #000;
+}
+
+.body-contacts-linkedIn {
+  background-color: #5093E2;
+  color: #fff;
+}
+
+.body-details {
+margin: 10px 15px;
+}
+
+.body-header {
+  font-weight: 700;
+  font-size: 16px;
+  color: #fff;
+}
+
+.body-description {
+  padding-top: 4px;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 10.24px;
+  color: #DCDCDC;
+  line-height: 15px;
+}
+
+.footer {
+  width: 317px;
+  height: 64px;
+  background-color: #161629;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius:0px 0px 8px 8px;
+}
+
+.footer-item {
+  margin: 6px;
+}

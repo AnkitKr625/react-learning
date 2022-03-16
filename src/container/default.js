@@ -1,8 +1,8 @@
-import FirstPage from '../pages/firstPage/firstPage'
+import DigitalBusinessCard from '../pages/digitalBusinessCard/digitalBusinessCard';
 const DefaultContainer = () => { 
   return (
     <section>
-      <FirstPage/>
+      <DigitalBusinessCard/>
     </section>
   )
 }
