@@ -1,8 +1,9 @@
 // Import page to render.
+import Airbnb from '../pages/airbnb-experience-clone/airbubClone';
 const DefaultContainer = () => { 
   return (
     <section>
-      <h1>Default Container</h1>
+      <Airbnb/>
     </section>
   )
 }

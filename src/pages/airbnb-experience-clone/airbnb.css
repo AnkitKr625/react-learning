@@ -1,0 +1,17 @@
+.airbnb {
+  max-width: 550px;
+}
+.cards {
+  display: flex;
+  align-items: center;
+  overflow-x: scroll;
+}
+
+.cards-item {
+  margin: 10px;
+  border-radius: 0px 0px 8px 8px;
+}
+
+.cards::-webkit-scrollbar {
+  display: none;
+}
