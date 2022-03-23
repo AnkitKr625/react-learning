@@ -1,8 +1,9 @@
 // Import page to render.
+import UseState from "../pages/useState";
 const DefaultContainer = () => { 
   return (
     <section>
-      <h1>Default Container</h1>
+      <UseState></UseState>
     </section>
   )
 }
